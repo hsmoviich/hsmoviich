@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering Student from Sarajevo, Bosnia & Hercegovina
+Software Engineering Student from Sarajevo, Bosnia & Hercegovina<br>
 🔭 I’m currently working on Makerba react project<br>🌱 I’m currently learning integrating AI Models into applications<br>
 
 
