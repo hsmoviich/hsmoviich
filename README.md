@@ -1,14 +1,43 @@
-# 💫 About Me:
-Software Engineering Student from Sarajevo, Bosnia & Hercegovina<br>
-🔭 I’m currently working on Makerba react project<br>🌱 I’m currently learning integrating AI Models into applications<br>
+<p>
+  <img src="./assets/profile-hero.svg" width="100%" alt="Hamza Selimović, software engineer and founder of Cinnamon Code in Sarajevo">
+</p>
 
+I’m a full-stack software engineer from Sarajevo and the founder of **Cinnamon Code**. I build web and mobile products, write open-source tools for developers, and work on the parts that make AI features useful in practice: retrieval, evaluation, and model routing.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsmvch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-selimovic-029494289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsmovich@gmail.com) 
+[**LinkedIn**](https://www.linkedin.com/in/hamza-selimovic-029494289/) · [**Cinnamon Code**](https://www.linkedin.com/company/cinnamoncode/) · [**Email**](mailto:hsmovich@gmail.com)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![GitHub Stats Card](https://ghstats.dev/api/card?username=hsmoviich&theme=catppuccin&hide_border=true&hide=stars%2Ccommits%2Cprs%2Cissues%2Cfollowers%2Crepos)
+## What I'm building
 
+### 01 / Maestro
 
+I packaged the [oh-my-pi](https://github.com/can1357/oh-my-pi) setup I use every day into an open-source toolkit. It installs community plugins and skills, lets you switch between Claude, GPT, or a mix, and includes **Jev Router**, the extension I wrote to match each task to a suitable model tier.
+
+[**Source code ↗**](https://github.com/hsmoviich/omp-maestro) · [**npm ↗**](https://www.npmjs.com/package/omp-maestro) · `npx omp-maestro`
+
+### 02 / TRAAQ
+
+I’m the technical lead on a personal finance app we started in a 24-hour hackathon and kept building at Cinnamon Code. TRAAQ reads individual items off receipts, connects expenses to people, and lets you ask questions about your spending using saved transactions.
+
+[**The story behind TRAAQ ↗**](https://www.linkedin.com/posts/cinnamoncode_most-budgeting-apps-can-tell-you-where-your-activity-7507151464264351744-EmpB)
+
+## Selected work
+
+- **OpenBench** — Co-built a football scouting prototype that turns match footage into timestamped suggestions a reviewer can verify. **3rd place**, [Sports Analytics Hackathon](https://gdg.community.dev/events/details/google-gdg-cloud-sarajevo-presents-132-nd-event-sports-analytics-hackathon-1/), 2026.
+- **ContexTI** — Co-built a desktop app that saves task context locally so you can pick up where you left off. **Coup de cœur award**, [ACM-W Europe womENcourage](https://acmwsarajevo.acm.org/womencourage-2026-sophia-antipolis-france/1913/), 2026.
+- **LLM-Integrated Game Architecture** — Co-built a Unity capstone that grounds character dialogue in game lore. We benchmarked local models for response quality and latency. **2nd place**, [IUS FENS Best Project Awards](https://news.ius.edu.ba/en/news/fens-graduation-projects-exhibition-2026-showcases-student-innovation-and-engineering), 2026.
+- **Cybersecurity as Well-being** — Co-authored [an ACM womENcourage poster](https://womencourage.acm.org/2026/index.php/poster-session/) on how gendered online harm affects people’s safety and participation.
+
+**Selected websites:** [Villa City](https://villacity.ba/) · [Redžepagić Rehabilitacija](https://www.rehabilitacija.ba/) · [IM Blitz Gebäudereinigung](https://imblitz-gebaeudereinigung.de/)
+
+## What I work with
+
+| Area | Tools and techniques |
+| :--- | :--- |
+| **Web & mobile** | TypeScript, React, Next.js, React Native, Expo |
+| **APIs & data** | Fastify, C#/.NET, PostgreSQL, Supabase |
+| **Applied AI** | Python, RAG, receipt OCR, model evaluation and routing |
+| **Cloud & delivery** | Cloudflare Workers, D1, R2, Docker, GitHub Actions, Playwright |
+| **Application security** | Authentication, authorization, access-control testing |
+| **Design** | Figma, interface prototyping, motion graphics |
+
+BSc in Software Engineering · International University of Sarajevo
